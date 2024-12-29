@@ -10,5 +10,4 @@ tools used:
 * ranger (file manager)
 * neomutt + mutt-wizard (email)
 * sc-im (spreadsheets)
-* vimiv (image viewer)
 * vieb (web browser)
